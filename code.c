@@ -2,6 +2,6 @@
 
 int main(void){
 
-	puts("Hello world!");
+	puts("This example is made to play with the git command");
 	return 0;
 }
